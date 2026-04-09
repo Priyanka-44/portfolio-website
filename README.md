@@ -1,16 +1,69 @@
-# React + Vite
+# Personal Developer Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Developer Portfolio Website** built to professionally showcase my profile, technical skills, internship experience, certifications, and real-world full-stack projects.
 
-Currently, two official plugins are available:
+# Live Demo
+Coming Soon
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# About the Project
+This portfolio website is designed for **placement and recruiter visibility**.  
+It highlights my academic background, technical expertise, internship experience, and project work in a professional UI.
 
-## React Compiler
+Key sections include:
+-  Hero Section
+-  About Me
+-  Technical Skills
+-  Experience
+-  Featured Projects
+-  Certifications
+-  Contact Form
+-  Resume Download
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+# Tech Stack
+- **React.js**
+- **Tailwind CSS**
+- **Framer Motion**
+- **JavaScript**
+- **Vite**
+- **EmailJS**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+# Features
+- Fully responsive design
+- Smooth scrolling navigation
+- Modern dark professional UI
+- Animated transitions
+- Real project showcase with GitHub links
+- Resume download functionality
+- Working contact form
+- Deployment ready
+
+---
+
+# Featured Projects
+- California Cricket Academy Online Booking Portal
+- Hospital Management System
+- Way To Interior
+- Prynx-AI
+- Type Rush & Colour Storm
+- Personal Portfolio Website
+
+---
+
+# Developer
+**Priyanka Panchal**  
+Aspiring Web Developer | MERN Stack Enthusiast  
+Ahmedabad, Gujarat, India  
+
+🔗 GitHub: https://github.com/Priyanka-44  
+🔗 LinkedIn: https://www.linkedin.com/in/priyanka-panchal-1b4794289/
+
+---
+
+# Installation
+
+npm install
+npm run dev
