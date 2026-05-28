@@ -30,7 +30,7 @@ const Navbar = () => {
         {/* Resume Button */}
         <motion.a
           whileHover={{ scale: 1.05 }}
-          href="/resume.pdf"
+          href="/Priyanka Panchal.pdf"
           download="Priyanka_Panchal_Resume.pdf"
           className="flex items-center gap-2 bg-cyan-500 hover:bg-cyan-600 px-5 py-2 rounded-lg"
         >
